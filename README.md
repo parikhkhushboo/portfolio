@@ -38,11 +38,8 @@ Hi, I'm **Khushboo Parikh**, an MCA student at Gujarat University with a strong 
 portfolio/
 │
 ├── index.html
-├── assets/
-│   └── resume.pdf
-├── css/
-├── js/
-└── images/
+├── public/
+│   └── Khushboo Parikh.pdf
 ```
 
 ---
@@ -55,10 +52,10 @@ You can view or download my resume directly from the portfolio website.
 
 ## 📬 Contact Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 📱 Phone: your-phone-number
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 💻 GitHub: https://github.com/your-username
+* 📧 Email: [parikhkhushboo364@gmail.com](mailto:parikhkhushboo364@gmail.com)
+* 📱 Phone: +91 7014757099
+* 💼 LinkedIn: [https://www.linkedin.com/in/khushboo-parikh-52b355283/]
+* 💻 GitHub: https://github.com/parikhkhushboo
 
 ---
 
